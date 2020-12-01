@@ -23,7 +23,7 @@ computing source to make it become a compact and portable tool for most moderate
 two options, including an online web-server for basic analysis and an offline package for deeper analysis and technical modification. 
 
 ## Availability and implementation
-Source code and data are available on [GitHub](https://github.com/mldlproject/2020-iNSP-CTDC)
+Source code and data are available on [GitHub](https://github.com/mldlproject/2020-cMIC-AntiKP)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
