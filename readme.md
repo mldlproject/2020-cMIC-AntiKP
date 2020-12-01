@@ -1,5 +1,5 @@
 # cMIC-AntiKP: Calculating MICs of Antibiotics towards Klebsiella Pneumoniae
-#### H. T. Pham, T-H Nguyen-Vo, Q. H. Trinh, T. T. T. Do, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
+#### H. H. Ngo, T-H. Nguyen-Vo, T. T. T. Do, M. T. Do, Q. H. Nguyen, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
 
 ![alt text](https://github.com/mldlproject/2020-CYP450-mCNN/blob/main/CYP450_abs.svg)
