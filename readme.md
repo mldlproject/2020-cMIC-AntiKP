@@ -12,7 +12,7 @@ straightforward and time-effective process because well-defined drugs can only b
 and evaluating minimum inhibitory concentrations (MICs). Besides conventional methods, numerous computer-aided framework has been 
 recently developed using computational advances and public data sources of clinical antimicrobial resistance. In this study, 
 we introduce cMIC-AntiKP, a computational framework specifically designed to predict MIC values of 20 antibiotics 
-towards \textit{Klebsiella pneumoniae}. Our prediction models were constructed using convolutional neural networks and $k$-mer 
+towards \textit{Klebsiella pneumoniae}. Our prediction models were constructed using convolutional neural networks and k-mer 
 counting-based features. 
 
 ## Results
