@@ -1,5 +1,5 @@
 # cMIC-AntiKP: Calculating MICs of Antibiotics towards Klebsiella Pneumoniae
-#### H. H. Ngo, T-H. Nguyen-Vo, T. T. T. Do, M. T. Do, Q. H. Nguyen, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
+#### H. H. Ngo, T-H. Nguyen-Vo, T. T. T. Do, M. T. Do, [Q. H. Nguyen](https://soict.hust.edu.vn/can-bo/ts-nguyen-hong-quang.html), and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
 
 ![alt text](https://github.com/mldlproject/2020-cMIC-AntiKP/blob/main/cMIC-AntiKP_abs.svg)
